@@ -1,0 +1,56 @@
+#photo{
+	float: right;
+}
+#sommaire_color	{
+	color: rgb(246, 246, 246);
+	}
+#sommaire2_color	{
+	color: rgb(255, 64, 0);
+	}
+#formation_color	{
+	color: rgb(255, 255, 255);
+	}
+#back_to_sommaire_color	{
+	color: rgb(247, 247, 247);
+	}
+.align_midle	{
+	text-align : center;
+	}
+#back_to_sommaire_color	{
+	background-color: rgb(202, 145, 2);
+	}
+#formation_color{
+	background-color: rgb(0, 0, 0);
+	}
+#titre_backcolor{
+	background-color: rgb(81, 0, 49);
+	}
+#titre_backcolor{
+	color: rgb(230, 170, 206);
+	}
+#image_background{
+	background-image: url("img/background_cv.png");
+    background-size: 500px; 
+	border: 5px solid rgb(207, 162, 0);
+	}
+.align_right	{
+	text-align : right;
+	}
+.ombre:hover {
+	box-shadow:  0px 10px 20px rgb(143, 131, 131);
+	}
+#nom {
+	color :rgb(247, 247, 247)
+	}
+@font-face {
+	font-family: "action_man_shadeditalic";
+	src: url("font/Action_Man_Shaded_Italic-webfont.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	}
+	header{
+		font-family: 'Lobster', cursive;
+		}
+ footer{
+	font-family: "Retourner au Sommaire", Georgia, Serif;
+	}
